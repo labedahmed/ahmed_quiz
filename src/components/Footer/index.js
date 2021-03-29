@@ -4,8 +4,8 @@ const Footer = () => {
     return (
         <footer>
             <div className="footer-container">
-                <p>Projet réalisé par Labed Ahmed - 2021</p>
-                <p>Les icônes Wolverine, Iron-man, Spider-man, Batman sont prises sur iconFinder.com</p>
+                <p>Projet réalisé par LABED Ahmed - 2021</p>
+                <p> all rights are save - جميع الحقوق محفوظة</p>
             </div>
         </footer>
     )
